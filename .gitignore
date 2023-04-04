@@ -5,3 +5,4 @@ node_modules/
 **.sample
 .parcel-cache
 .pnp.*
+package-lock.json
